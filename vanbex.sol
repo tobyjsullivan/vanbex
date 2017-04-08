@@ -36,6 +36,7 @@ contract Vanbex {
       x[minIdx] = tmp;
     }
 
+    return x;
   }
 
   function factorial(int x)
